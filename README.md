@@ -1,6 +1,6 @@
 # My first layout
 
-*[Demo](https://dimavasilenko.github.io/first-layout/)*
+## [Demo](https://dimavasilenko.github.io/first-layout/)*
 
 ## Description
 
