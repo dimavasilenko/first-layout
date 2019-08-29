@@ -8,5 +8,5 @@
 
 ## Technologies are used
 
-- *HTML*
-- *CSS*
+- HTML
+- CSS 
