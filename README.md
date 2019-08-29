@@ -4,7 +4,7 @@
 
 ## Description
 
-*Layout on PSD-template*
+Layout on PSD-template
 
 ## Technologies are used
 
